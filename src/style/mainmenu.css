@@ -1,0 +1,18 @@
+.main-menu .container{
+    background: linear-gradient(45deg, rgb(255, 0, 0), rgb(0, 41, 255));
+}
+
+.main-menu__p{
+    color:  red;
+}
+
+.list-menu a{
+    text-decoration: none;
+    color: gainsboro;
+}
+
+.list-menu a:hover{
+    text-decoration: underline;
+    color: blue;
+    transition: all 0.3s;
+}

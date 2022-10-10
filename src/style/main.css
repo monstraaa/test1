@@ -1,0 +1,28 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+.wrapper{
+    width: 100%;
+    background-color: lemonchiffon;
+}
+
+.container{
+    max-width: 1140px;
+    margin:  0 auto;
+    background-color: chartreuse;
+}
